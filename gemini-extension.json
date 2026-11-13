@@ -1,0 +1,11 @@
+{
+  "name": "agent-tools",
+  "version": "0.1.0",
+  "description": "Find x402 paid APIs, MCP servers and A2A agents by intent via agent-tools.cloud, with health, quality and safety signals. Discovery only; never pays or signs.",
+  "mcpServers": {
+    "agent-tools": {
+      "httpUrl": "https://agent-tools.cloud/mcp-discovery/"
+    }
+  },
+  "contextFileName": "GEMINI.md"
+}
